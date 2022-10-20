@@ -1,2 +1,2 @@
-# C-_dsa_problems
+# Cpp_dsa_problems
 For Hacktoberfest 2022 , a collection of dsa problems
